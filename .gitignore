@@ -10,3 +10,4 @@ wheels/
 .venv
 wiki_movie_plots_deduped.csv
 .env
+query_result.json
